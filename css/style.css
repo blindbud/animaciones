@@ -84,7 +84,8 @@ nav ul li a {
 .item2:hover {
     background: #B39DDB;
     grid-area: main;
-
+    width: 220px;
+    height: 220px;
 
     display: grid;
 
